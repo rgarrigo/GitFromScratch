@@ -1,0 +1,3 @@
+#!/bin/bash
+
+cat /var/mail/$(ls /var/mail | sort -h | tail -n 1)

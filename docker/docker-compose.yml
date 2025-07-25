@@ -1,0 +1,8 @@
+services:
+  gfs:
+    build:
+      context: .
+    container_name: gfs
+    hostname: gfs
+    ports:
+      - "2222:22"
