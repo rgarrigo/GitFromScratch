@@ -9,10 +9,10 @@ This is a MVP, content is yet to be done.
 - ssh client
 
 ## Run
-Run 'make' to launch the docker.
-Run 'make connect' and type the password 'aria' to connect.
+- 'make' to launch the docker.
+- 'make connect' with password 'aria' to connect.
 
-## Licensing
-Copyright (C) 2025 rgarrigo.
-Git From Scratch is licensed under the GPLv3 License.
-See the LICENSE file for more details.
+## License
+- Git From Scratch is licensed under the GPLv3 License.
+- See the LICENSE file for more details
+- Copyright (C) 2025 rgarrigo.
